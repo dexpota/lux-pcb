@@ -1,0 +1,14 @@
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/edit_cache.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/platformio-clion.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/rebuild_cache.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_BUILD_VERBOSE.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_BUILD.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_MONITOR.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_CLEAN.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_DEVICE_LIST.dir
+/home/fabrizio/developing/github/lux-pcb/sketches/manual-testing/cmake-build-diecimilaatmega328/CMakeFiles/PLATFORMIO_TEST.dir
