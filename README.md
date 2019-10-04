@@ -4,3 +4,5 @@
 # Lux PCB
 
 [![license badge][license-badge]][license]
+
+![AAB PCB Renderings](./assets/aab_banner.svg)
