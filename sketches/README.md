@@ -3,6 +3,26 @@
 
 # Sketches
 
+This directory contains the sketches used with the boards.
+
+- [manual-testing](./manual-testing) is used to manually test the functionality
+  of the boards by selecting which LED to light up, its color and its
+  intensity;
+
+## Requirements
+
+1. Install **CLion** and follow [these instruction][clion-integration] to integrate **PlatformIO**
+   into it;
+2. Install **PlatformIO** with `pip`;
+    ```
+    pip install platformio
+    ```
+3. Install the sketch dependecies by moving to its root directory and using
+   this command;
+    ```
+    pip lib install
+    ```
+
 ## References
 
 - [PlatformIO][platform-io];
