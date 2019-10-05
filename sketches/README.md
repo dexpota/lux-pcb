@@ -1,7 +1,11 @@
 [clion-integration]: https://docs.platformio.org/en/latest/ide/clion.html
 [platform-io]: https://docs.platformio.org/en/latest/quickstart.html
+[license]: https://www.gnu.org/licenses/gpl-3.0.en.html
+[license-badge]:  https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge
 
 # Sketches
+
+[![License GPL v3][license-badge]][license]
 
 This directory contains the sketches used with the boards.
 
