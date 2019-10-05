@@ -6,3 +6,8 @@
 [![license badge][license-badge]][license]
 
 ![AAB PCB Renderings](./assets/aab_banner.svg)
+
+## Repository Structure
+
+- [sketches](./sketches): contains the source code of the programs used with
+  these boards;
