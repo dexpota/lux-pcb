@@ -7,6 +7,8 @@
 
 ![AAB PCB Renderings](./assets/aab_banner.svg)
 
+![BCC PCB Renderings](./assets/bcc_banner.svg)
+
 ## Repository Structure
 
 - [sketches](./sketches): contains the source code of the programs used with
